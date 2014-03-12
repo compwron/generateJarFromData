@@ -21,7 +21,7 @@ public class Hierarchy {
     }
 
     public Hierarchy() {  // for library usage
-        this.itemHierarchy = readFromItemJson("itemHierarchy.json");
+        this.itemHierarchy = readFromItemJson("resources/itemHierarchy.json");
     }
 
     private ItemHierarchy readFromItemJson(String fileName) {

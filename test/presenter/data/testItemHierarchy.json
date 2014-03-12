@@ -1,0 +1,49 @@
+{
+    "divisions": [
+        {
+            "name": "MENS",
+            "departments": [
+                {
+                    "name": "MENS SWEATERS",
+                    "clsList": [
+                        {
+                            "name": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+                        },
+                        {
+                            "name": "UNDETERMINABLES"
+                        },
+                        {
+                            "name": "NOVELTY"
+                        }
+                    ]
+                },
+                {
+                    "name": "MENS FURNISHINGS",
+                    "clsList": [
+                        {
+                            "name": "SHOES"
+                        },
+                        {
+                            "name": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+                        },
+                        {
+                            "name": "LICENSING"
+                        },
+                        {
+                            "name": "MENS ACCESSORIES"
+                        },
+                        {
+                            "name": "SEASONAL ACCESSORIES"
+                        },
+                        {
+                            "name": "MENS BAS UNDWR/SOCKS"
+                        },
+                        {
+                            "name": "LOUNGE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -65,8 +65,10 @@ uploadArchives {
 }
 
 jar {
-//    dependsOn += ['test']
-    from "test/presenter/data/itemHierarchy.json"
+    from "resources/itemHierarchy.json"
+    from configurations.compile.collect {
+        it.isDirectory() ? it : zipTree(it)
+    }
 }
 
 task wrapper(type: Wrapper) {
