@@ -94,4 +94,8 @@ public class Collector {
         }
         return false;
     }
+
+    public List<Division> findDivisionsByDepartment(ItemHierarchy itemHierarchy, Department department) {
+        return null;
+    }
 }
