@@ -2,7 +2,8 @@ package presenter;
 
 import org.junit.After;
 import org.junit.Test;
-import populator.HierarchyJsonPopulator;
+import populator.HierarchyJsonFetch;
+import populator.HierarchyJsonPopulate;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,8 +21,9 @@ public class HierarchyTest {
 
     @Test
     public void itemHierarchyShouldHaveDivisions() throws IOException {
-        HierarchyJsonPopulator populator = new HierarchyJsonPopulator("configuration.xml");
-        populator.writeItemJsonFile(fileLocation);
+        HierarchyJsonFetch populator = new HierarchyJsonFetch("configuration.xml");
+
+        new HierarchyJsonPopulate(fileLocation, populator.getItemHierarchy()).writeItemJsonFile();
         Hierarchy hierarchy = new Hierarchy(fileLocation);
 
         assertThat(hierarchy.getItemHierarchy().getDivisions().size(), is(10));

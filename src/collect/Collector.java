@@ -34,6 +34,28 @@ public class Collector {
         return departmentsFromDivisions(newArrayList(divisions));
     }
 
+    public List<Division> findDivisionsByDepartment(ItemHierarchy itemHierarchy, Department department) {
+        List<Division> divisionsContainingDepartment = newArrayList();
+        for (Division division : itemHierarchy.getDivisions()){
+            if (division.getDepartments().contains(department)){
+                divisionsContainingDepartment.add(division);
+            }
+        }
+        return divisionsContainingDepartment;
+    }
+
+    public List<Division> findDivisionsByCls(ItemHierarchy itemHierarchy, Cls cls) {
+//        It is possible for a Cls to be in several departments or even divisions
+        List<Division> divisionsContainingCls = newArrayList();
+        for (Division division : itemHierarchy.getDivisions()){
+            if (containsCls(division, cls)){
+                divisionsContainingCls.add(division);
+            }
+        }
+        return divisionsContainingCls;
+    }
+
+
     private Division[] makeVarArgs(ItemHierarchy itemHierarchy) {
         List<Division> divisionsList = itemHierarchy.getDivisions();
         Division[] divisions = new Division[divisionsList.size()];
@@ -75,17 +97,6 @@ public class Collector {
         };
     }
 
-    public List<Division> findDivisionsByCls(ItemHierarchy itemHierarchy, Cls cls) {
-//        It is possible for a Cls to be in several departments or even divisions
-        List<Division> divisionsContainingCls = newArrayList();
-        for (Division division : itemHierarchy.getDivisions()){
-           if (containsCls(division, cls)){
-               divisionsContainingCls.add(division);
-           }
-        }
-        return divisionsContainingCls;
-    }
-
     private boolean containsCls(Division division, Cls cls) {
         for (Department department : division.getDepartments()){
             if (department.getClsList().contains(cls)){
@@ -93,16 +104,5 @@ public class Collector {
             }
         }
         return false;
-    }
-
-    public List<Division> findDivisionsByDepartment(ItemHierarchy itemHierarchy, Department department) {
-        List<Division> divisionsContainingDepartment = newArrayList();
-        for (Division division : itemHierarchy.getDivisions()){
-            if (division.getDepartments().contains(department)){
-                divisionsContainingDepartment.add(division);
-            }
-        }
-
-        return divisionsContainingDepartment;
     }
 }
