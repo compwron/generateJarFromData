@@ -107,4 +107,19 @@ public class CollectorTest {
         assertThat(clses.size(), is(3));
     }
 
+    @Test
+    public void shouldFindAllClsInHierarchy(){
+        ItemHierarchy itemHierarchy = new ItemHierarchyBuilder()
+                .withDivision(new DivisionBuilder().withCls(new Cls("1")).build())
+                .withDivision(new DivisionBuilder()
+                        .withCls(new Cls("2"))
+                        .withCls(new Cls("3"))
+                        .build())
+                .build();
+
+
+        List<Cls> clses = new Collector().allCls(itemHierarchy);
+        assertThat(clses.size(), is(3));
+    }
+
 }
