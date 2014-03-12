@@ -13,3 +13,8 @@ This app is to generate libraries, NOT to ever be deployed to a production envir
 Note: This is not an official project. This is based on my personal opinions about a pain point that my team has been feeling.
 
 TODO/Note: currently, some of the "unit" tests are not actually unit tests. They talk to the database and the filesystem. This is a hacky project and never intended to be prod code.
+
+
+To use:
+* create db.properties (see sample.db.properties)
+* modify ivyPublishUrl, username, password in gradle.properties
