@@ -27,7 +27,7 @@ public class Collector {
     }
 
     public List<Department> allDepartments(ItemHierarchy itemHierarchy) {
-        return allDepartments(makeVarArgs(itemHierarchy));
+        return allDepartments((Division[]) itemHierarchy.getDivisions().toArray());
     }
 
     public List<Department> allDepartments(Division... divisions) {
@@ -53,16 +53,6 @@ public class Collector {
             }
         }
         return divisionsContainingCls;
-    }
-
-
-    private Division[] makeVarArgs(ItemHierarchy itemHierarchy) {
-        List<Division> divisionsList = itemHierarchy.getDivisions();
-        Division[] divisions = new Division[divisionsList.size()];
-        for (int i = 0; i < divisionsList.size(); i++) {
-            divisions[i] = divisionsList.get(i);
-        }
-        return divisions;
     }
 
     private List<Cls> determineClsesFromDivisions(List<Division> divisions) {
