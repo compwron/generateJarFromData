@@ -96,6 +96,13 @@ public class Collector {
     }
 
     public List<Division> findDivisionsByDepartment(ItemHierarchy itemHierarchy, Department department) {
-        return null;
+        List<Division> divisionsContainingDepartment = newArrayList();
+        for (Division division : itemHierarchy.getDivisions()){
+            if (division.getDepartments().contains(department)){
+                divisionsContainingDepartment.add(division);
+            }
+        }
+
+        return divisionsContainingDepartment;
     }
 }
