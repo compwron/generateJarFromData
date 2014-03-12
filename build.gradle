@@ -64,6 +64,11 @@ uploadArchives {
     }
 }
 
+jar {
+//    dependsOn += ['test']
+    from "test/presenter/data/itemHierarchy.json"
+}
+
 task wrapper(type: Wrapper) {
     gradleVersion = '1.9'
 }

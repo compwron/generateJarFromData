@@ -20,6 +20,10 @@ public class Hierarchy {
         this.itemHierarchy = readFromItemJson(fileLocation);
     }
 
+    public Hierarchy() {  // for library usage
+        this.itemHierarchy = readFromItemJson("itemHierarchy.json");
+    }
+
     private ItemHierarchy readFromItemJson(String fileName) {
         try {
             String content = Files.toString(new File(fileName), Charsets.UTF_8);

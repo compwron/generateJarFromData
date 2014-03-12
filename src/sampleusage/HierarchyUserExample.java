@@ -12,7 +12,7 @@ import java.io.IOException;
 public class HierarchyUserExample {
     public static void main(String... args) throws IOException {
 
-        ItemHierarchy itemHierarchy = new Hierarchy("test/presenter/data/sampleItemHierarchy.json").getItemHierarchy();
+        ItemHierarchy itemHierarchy = new Hierarchy("test/presenter/data/itemHierarchy.json").getItemHierarchy();
 
         System.out.println("All Divisions in hierarchy: " + itemHierarchy.getDivisions());
         System.out.println("All Cls in hierarchy: " + new Collector().allCls(itemHierarchy));
