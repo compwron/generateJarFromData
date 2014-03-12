@@ -47,4 +47,64 @@ public class CollectorTest {
         assertThat(divisions.contains(division), is(false));
     }
 
+    @Test
+    public void shouldGiveAllDepartmentsInHierarchy() {
+        ItemHierarchy itemHierarchy = new ItemHierarchyBuilder()
+                .withDivision(new DivisionBuilder()
+                        .withDepartment(new DepartmentBuilder().build())
+                        .build())
+                .withDivision(new DivisionBuilder()
+                        .withDepartment(new DepartmentBuilder().build())
+                        .withDepartment(new DepartmentBuilder().build())
+                        .build()
+                ).build();
+
+        List<Department> departments = new Collector().allDepartments(itemHierarchy);
+        assertThat(departments.size(), is(3));
+    }
+
+    @Test
+    public void shouldGiveAllDepartmentsInMultipleDivisions() {
+        Division division1 = new DivisionBuilder()
+                .withDepartment(new DepartmentBuilder().build()).build();
+        Division division2 = new DivisionBuilder()
+                .withDepartment(new DepartmentBuilder().build())
+                .withDepartment(new DepartmentBuilder().build())
+                .build();
+        List<Department> departments = new Collector().allDepartments(division1, division2);
+
+        assertThat(departments.size(), is(3));
+    }
+
+    @Test
+    public void shouldFindAllClsInDepartments(){
+        Department department1 = new DepartmentBuilder().withCls(new Cls("1")).build();
+        Department department2 = new DepartmentBuilder()
+                .withCls(new Cls("2"))
+                .withCls(new Cls("3"))
+                .build();
+        List<Cls> clses = new Collector().allCls(department1, department2);
+
+        assertThat(clses.size(), is(3));
+    }
+
+    @Test
+    public void shouldFindAllClsInMultipleDivisions(){
+        Division division1 = new DivisionBuilder()
+                .withDepartment(new DepartmentBuilder()
+                        .withCls(new Cls("1"))
+                        .build()).build();
+        Division division2 = new DivisionBuilder()
+                .withDepartment(new DepartmentBuilder()
+                        .withCls(new Cls("2"))
+                        .build())
+                .withDepartment(new DepartmentBuilder()
+                        .withCls(new Cls("3"))
+                        .build())
+                .build();
+
+        List<Cls> clses = new Collector().allCls(division1, division2);
+        assertThat(clses.size(), is(3));
+    }
+
 }

@@ -30,6 +30,10 @@ public class Collector {
         return allDepartments(makeVarArgs(itemHierarchy));
     }
 
+    public List<Department> allDepartments(Division... divisions) {
+        return departmentsFromDivisions(newArrayList(divisions));
+    }
+
     private Division[] makeVarArgs(ItemHierarchy itemHierarchy) {
         List<Division> divisionsList = itemHierarchy.getDivisions();
         Division[] divisions = new Division[divisionsList.size()];
@@ -37,10 +41,6 @@ public class Collector {
             divisions[i] = divisionsList.get(i);
         }
         return divisions;
-    }
-
-    public List<Department> allDepartments(Division... divisions) {
-        return departmentsFromDivisions(newArrayList(divisions));
     }
 
     private List<Cls> determineClsesFromDivisions(List<Division> divisions) {

@@ -27,15 +27,6 @@ public class HierarchyUserExample {
         System.out.println("All Cls in department: " + new Collector().allCls(department));
         System.out.println("All departments in one or multiple divisions: " + new Collector().allDepartments(division1, division2));
         System.out.println("All departments in hierarchy: " + new Collector().allDepartments(itemHierarchy));
-
-
-
-
         System.out.println("Division containing CLS with name: " + new Collector().findDivisionsByCls(itemHierarchy, new Cls("UNDETERMINABLES")));
-
-
-
-//        What division contains CLS with name
-//        What division contains departments with name
     }
 }
