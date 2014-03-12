@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper
+        namespace="data.mappers.HierarchyMapper">
+
+    <resultMap id="allLocations" type="data.beans.ItemHierarchyRecord">
+        <result column="mdse_div_desc" property="division" />
+        <result column="mdse_dept_desc" property="department" />
+        <result column="mdse_cls_desc" property="cls" />
+    </resultMap>
+
+    <select id="allLocations" resultMap="allLocations" resultType="List"
+            parameterType="map" useCache="true">
+
+		select mdse_div_desc, mdse_dept_desc, mdse_cls_desc from tmhds_mdse_hier_desc_t
+	</select>
+
+</mapper>

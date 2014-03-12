@@ -1,0 +1,1073 @@
+{
+    "divisions" : [ {
+        "name" : "MENS",
+        "departments" : [ {
+            "name" : "MENS SWEATERS",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "UNDETERMINABLES"
+            }, {
+                "name" : "NOVELTY"
+            } ]
+        }, {
+            "name" : "MENS FURNISHINGS",
+            "clsList" : [ {
+                "name" : "SHOES"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "LICENSING"
+            }, {
+                "name" : "MENS ACCESSORIES"
+            }, {
+                "name" : "SEASONAL ACCESSORIES"
+            }, {
+                "name" : "MENS BAS UNDWR/SOCKS"
+            }, {
+                "name" : "LOUNGE"
+            } ]
+        }, {
+            "name" : "MENS KNITS/SWEATERS",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "FASHION SS KNITS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "BASIC POLO"
+            }, {
+                "name" : "BASIC SS KNITS"
+            }, {
+                "name" : "FASHION POLOS"
+            }, {
+                "name" : "SWEATERS"
+            }, {
+                "name" : "L/S KNITS"
+            } ]
+        }, {
+            "name" : "MENS GRAPHICS",
+            "clsList" : [ {
+                "name" : "TEST GRAPHIC TEES"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "CHARACTER LICENSING"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "SPORTS LICENSING"
+            }, {
+                "name" : "GRAPHIC TEES"
+            }, {
+                "name" : "FLAG"
+            } ]
+        }, {
+            "name" : "MENS TD VARIANCE",
+            "clsList" : [ {
+                "name" : "MENS TD VARIANCE"
+            } ]
+        }, {
+            "name" : "MENS DENIM",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "BASIC DENIM"
+            }, {
+                "name" : "FASHION DENIM"
+            }, {
+                "name" : "XXXXXXXXXXXXX"
+            } ]
+        }, {
+            "name" : "MENS ACTIVE",
+            "clsList" : [ {
+                "name" : "FLEECE TOPS-CURRENT"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "ACTIVE TOPS"
+            }, {
+                "name" : "SWIMWEAR"
+            }, {
+                "name" : "ACTIVE BOTTOMS"
+            }, {
+                "name" : "LICENSING"
+            }, {
+                "name" : "XXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "FLEECE BOTTOMS"
+            } ]
+        }, {
+            "name" : "MENS WOVENTOP/OUTRWR",
+            "clsList" : [ {
+                "name" : "OUTERWEAR"
+            }, {
+                "name" : "S/S SHIRTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "L/S SHIRTS"
+            }, {
+                "name" : "XXXXXXXXX"
+            } ]
+        }, {
+            "name" : "MENS PANTS",
+            "clsList" : [ {
+                "name" : "FASHION PANTS"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "BASIC PANTS"
+            } ]
+        }, {
+            "name" : "MENS OUTERWEAR",
+            "clsList" : [ {
+                "name" : "ANORAKS"
+            }, {
+                "name" : "OUTERWEAR"
+            }, {
+                "name" : "WOOL/LEATHER"
+            }, {
+                "name" : "UNDETERMINABLE"
+            }, {
+                "name" : "XXXXXXXXX"
+            } ]
+        } ]
+    }, {
+        "name" : "GIRLS DIVISION",
+        "departments" : [ {
+            "name" : "GIRLS KNITS/SWEATERS",
+            "clsList" : [ {
+                "name" : "SHORT SLEEVE TOPS"
+            }, {
+                "name" : "GRAPHICS"
+            }, {
+                "name" : "SLEEVLESS TOPS"
+            }, {
+                "name" : "LONG SLEEVE TOPS"
+            }, {
+                "name" : "SWEATERS"
+            }, {
+                "name" : "LICENSE GRAPHICS"
+            } ]
+        }, {
+            "name" : "GIRLS ACTIVE",
+            "clsList" : [ {
+                "name" : "TOPS"
+            }, {
+                "name" : "SHORTS/SKIRTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "SWIMWEAR"
+            }, {
+                "name" : "BOTTOMS"
+            } ]
+        }, {
+            "name" : "GIRLS TD VARIANCE",
+            "clsList" : [ {
+                "name" : "GIRLS TD VARIANCE"
+            } ]
+        }, {
+            "name" : "GIRLS ACCESSORIES",
+            "clsList" : [ {
+                "name" : "DISCONTINUED"
+            }, {
+                "name" : "SHOES & BOOTS"
+            }, {
+                "name" : "SOCKS"
+            }, {
+                "name" : "ACCESSORIES"
+            }, {
+                "name" : "COLD WEATHER"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "UNDERWEAR"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "SANDALS & FF"
+            }, {
+                "name" : "SLEEPWEAR"
+            } ]
+        }, {
+            "name" : "GIRLS DENIM",
+            "clsList" : [ {
+                "name" : "DENIM SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "MISC"
+            }, {
+                "name" : "CAPRI"
+            }, {
+                "name" : "BASIC JEANS"
+            }, {
+                "name" : "FASHION JEAN"
+            } ]
+        }, {
+            "name" : "GIRLS WOVEN BOTTOMS",
+            "clsList" : [ {
+                "name" : "WOVEN CAPRIS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "OTHER"
+            }, {
+                "name" : "WOVEN SHORTS"
+            }, {
+                "name" : "PANTS"
+            } ]
+        }, {
+            "name" : "GIRLS WOVEN ITEMS",
+            "clsList" : [ {
+                "name" : "OUTERWEAR"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "WOVEN SKIRTS"
+            }, {
+                "name" : "DRESSES"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXX"
+            }, {
+                "name" : "WOVEN TOPS"
+            } ]
+        }, {
+            "name" : "GIRLS SLEEP/UNDERWEA",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "UNDERWEAR"
+            }, {
+                "name" : "GIRL BOXERS"
+            }, {
+                "name" : "SLEEPWEAR"
+            } ]
+        } ]
+    }, {
+        "name" : "ACESS/SHOES/NONAPPRL",
+        "departments" : [ {
+            "name" : "WOMENS ACCESSORIES",
+            "clsList" : [ {
+                "name" : "EARRINGS"
+            }, {
+                "name" : "BEELINE TEST"
+            }, {
+                "name" : "HOSIERY"
+            }, {
+                "name" : "W HATS/SCARVES"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "WOMENS BAGS"
+            }, {
+                "name" : "SEASONAL ACCESSORIES"
+            }, {
+                "name" : "WOMENS BELTS"
+            }, {
+                "name" : "HASKELL TEST"
+            }, {
+                "name" : "BRACELETS/RINGS"
+            }, {
+                "name" : "SUNGLASSES"
+            }, {
+                "name" : "NECKLACES"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "MISCELLANEOUS"
+            } ]
+        }, {
+            "name" : "XXXXXXXXXXXXXXXXXXXXXX",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            } ]
+        }, {
+            "name" : "NON APPAREL",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "CONTAINER"
+            }, {
+                "name" : "XXXXXXXX"
+            }, {
+                "name" : "BALLS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "TOYS"
+            }, {
+                "name" : "MISCELLANEOUS"
+            }, {
+                "name" : "PERSONAL CARE"
+            }, {
+                "name" : "SEASONAL"
+            }, {
+                "name" : "DOG"
+            } ]
+        }, {
+            "name" : "XXXXXXXXX",
+            "clsList" : [ {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXXX"
+            } ]
+        }, {
+            "name" : "N/A TD VARIANCE",
+            "clsList" : [ {
+                "name" : "N/A TD VARIANCE"
+            } ]
+        }, {
+            "name" : "BEAUTY",
+            "clsList" : [ {
+                "name" : "HAIR CARE"
+            }, {
+                "name" : "BATH & BODY"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            } ]
+        }, {
+            "name" : "WOMENS SHOES",
+            "clsList" : [ {
+                "name" : "CONSTRUCTED"
+            }, {
+                "name" : "FASHION FLIP FLOPS"
+            }, {
+                "name" : "SANDALS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "SLIPPERS ADULT"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "BASIC FLIP FLOPS"
+            }, {
+                "name" : "BOOTS"
+            } ]
+        } ]
+    }, {
+        "name" : "OTHER",
+        "departments" : [ {
+            "name" : "XXXXXXXXXXXXXXXXXXXXXX",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            } ]
+        }, {
+            "name" : "OTHER",
+            "clsList" : [ {
+                "name" : "OTHER US"
+            }, {
+                "name" : "OTHER DIRECT"
+            }, {
+                "name" : "OTHER CANADA"
+            } ]
+        }, {
+            "name" : "XXXXXXXXX",
+            "clsList" : [ {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXXX"
+            } ]
+        }, {
+            "name" : "MISCELLANEOUS",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "MISCELLANEOUS"
+            } ]
+        } ]
+    }, {
+        "name" : "MATERNITY",
+        "departments" : [ {
+            "name" : "MATERNITY BOTTOMS",
+            "clsList" : [ {
+                "name" : "SHORTS/CAPRI"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "ACTIVE BOTTOMS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "PANTS/DENIM"
+            }, {
+                "name" : "SKIRTS/DRESSES"
+            }, {
+                "name" : "DENIM PANTS"
+            }, {
+                "name" : "INTIMATES/ACCES"
+            } ]
+        }, {
+            "name" : "MAT TD VARIANCE",
+            "clsList" : [ {
+                "name" : "MAT TD VARIANCE"
+            } ]
+        }, {
+            "name" : "XXXXXXXXXXXXXXXXXXXXXX",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            } ]
+        }, {
+            "name" : "MATERNITY TOPS",
+            "clsList" : [ {
+                "name" : "KNT/WOV TOPS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "ACTIVE TOPS"
+            }, {
+                "name" : "LAYERING TOPS"
+            }, {
+                "name" : "INTIMATES/SWIM"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "WOVEN TOPS"
+            } ]
+        } ]
+    }, {
+        "name" : "WOMENS",
+        "departments" : [ {
+            "name" : "WOMENS DENIM",
+            "clsList" : [ {
+                "name" : "FASH DENIM BOTTOMS"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "BASIC 5 POCKET"
+            }, {
+                "name" : "SKIRTS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "CAPRI"
+            } ]
+        }, {
+            "name" : "W DRESSES & OUTERWEAR",
+            "clsList" : [ {
+                "name" : "OUTERWEAR"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "DRESSES"
+            }, {
+                "name" : "UNDETERMINABLE"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "MISCELLANEOUS"
+            } ]
+        }, {
+            "name" : "WOMENS TD VARIANCE",
+            "clsList" : [ {
+                "name" : "WOMENS TD VARIANCE"
+            } ]
+        }, {
+            "name" : "WOMENS KNITS",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "S/L BASIC KNITS"
+            }, {
+                "name" : "L/S BASIC KNITS"
+            }, {
+                "name" : "S/S BASIC KNITS"
+            }, {
+                "name" : "S/S KNITS"
+            }, {
+                "name" : "L/S KNITS"
+            }, {
+                "name" : "SLEEVELESS"
+            } ]
+        }, {
+            "name" : "WOMENS ACTIVE",
+            "clsList" : [ {
+                "name" : "LICENSED GRAPHICS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "SWIM"
+            }, {
+                "name" : "ACTIVE TOPS"
+            }, {
+                "name" : "ACTIVE BOTTOMS"
+            }, {
+                "name" : "FLEECE TOPS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "GRAPHIC TEES"
+            }, {
+                "name" : "FLEECE BOTTOMS"
+            }, {
+                "name" : "LICENSED FLEECE"
+            } ]
+        }, {
+            "name" : "WOMENS WOVEN TOPS",
+            "clsList" : [ {
+                "name" : "L/S TOPS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "SLEEVELESS TOPS"
+            } ]
+        }, {
+            "name" : "INTIMATES",
+            "clsList" : [ {
+                "name" : "SWIM"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "UNDERWEAR"
+            }, {
+                "name" : "OTHER"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "BRAS"
+            }, {
+                "name" : "LOUNGEWEAR"
+            }, {
+                "name" : "SLEEPWEAR"
+            } ]
+        }, {
+            "name" : "WOMENS SWEATERS",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "LONG SLEEVE"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "S/S AND S/L"
+            } ]
+        }, {
+            "name" : "WOMENS GRAPHICS",
+            "clsList" : [ {
+                "name" : "TEST GRAPHICS"
+            }, {
+                "name" : "LICENSED GRAPHICS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "CORE GRAPHICS"
+            }, {
+                "name" : "SPORTS"
+            } ]
+        }, {
+            "name" : "WOMENS BOTTOMS",
+            "clsList" : [ {
+                "name" : "CAPRIS"
+            }, {
+                "name" : "FASHION PANTS"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "SKIRTS"
+            }, {
+                "name" : "UNDETERMINABLE"
+            }, {
+                "name" : "DRESS PANTS"
+            }, {
+                "name" : "MISCELLANEOUS"
+            } ]
+        } ]
+    }, {
+        "name" : "BOYS DIVISION",
+        "departments" : [ {
+            "name" : "BOYS DENIM",
+            "clsList" : [ {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "FASHION JEAN"
+            }, {
+                "name" : "BASIC JEAN"
+            } ]
+        }, {
+            "name" : "BOYS ACTIVE",
+            "clsList" : [ {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "ACTIVE TOPS"
+            }, {
+                "name" : "BOTTOMS"
+            }, {
+                "name" : "ACTIVE SHORTS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXX"
+            }, {
+                "name" : "BOYS SWIM"
+            } ]
+        }, {
+            "name" : "BOYS WOVENS",
+            "clsList" : [ {
+                "name" : "JACKETS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "LONG SLEEVE"
+            }, {
+                "name" : "SHORT SLEEVE"
+            } ]
+        }, {
+            "name" : "BOYS KNITS/SWEATERS",
+            "clsList" : [ {
+                "name" : "TANKS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "POLOS"
+            }, {
+                "name" : "SWEATERS"
+            }, {
+                "name" : "L/S KNITS"
+            }, {
+                "name" : "S/S KNITS"
+            }, {
+                "name" : "VESTS"
+            } ]
+        }, {
+            "name" : "GRAPHICS",
+            "clsList" : [ {
+                "name" : "L/S GRAPHICS"
+            }, {
+                "name" : "S/S LICENSE"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "S/S & S/L GRAPHICS"
+            }, {
+                "name" : "L/S LICENSE"
+            }, {
+                "name" : "LOGO BOTTOMS"
+            } ]
+        }, {
+            "name" : "BOYS TD VARIANCE",
+            "clsList" : [ {
+                "name" : "BOYS TD VARIANCE"
+            } ]
+        }, {
+            "name" : "XXXXXXXXX",
+            "clsList" : [ {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXXX"
+            } ]
+        }, {
+            "name" : "BOYS ACCESS/FURNISH",
+            "clsList" : [ {
+                "name" : "SOCKS"
+            }, {
+                "name" : "SHOES"
+            }, {
+                "name" : "UNDERWEAR & BOXERS"
+            }, {
+                "name" : "BOYS ACCESSORIES"
+            }, {
+                "name" : "SLEEP"
+            } ]
+        }, {
+            "name" : "BOYS WOVEN BOTTOMS",
+            "clsList" : [ {
+                "name" : "FASHION PANTS"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "BASIC PANTS"
+            } ]
+        } ]
+    }, {
+        "name" : "BABY&TODDLER DIVISION",
+        "departments" : [ {
+            "name" : "BABY GIRLS KNITS",
+            "clsList" : [ {
+                "name" : "DRESSES/JUMPERS"
+            }, {
+                "name" : "KNIT PANTS"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "SWIM"
+            }, {
+                "name" : "OUTERWEAR/ACT LAY TOPS"
+            }, {
+                "name" : "L/S TOPS & BODYSUITS"
+            }, {
+                "name" : "GRAPHICS"
+            }, {
+                "name" : "LICENSING"
+            }, {
+                "name" : "S/S & S/L TOPS & BODYS"
+            }, {
+                "name" : "SKIRTS/SKORTS"
+            }, {
+                "name" : "SWEATERS"
+            } ]
+        }, {
+            "name" : "BABY BOY WOVENS",
+            "clsList" : [ {
+                "name" : "TOPS"
+            }, {
+                "name" : "WOVEN PANTS"
+            }, {
+                "name" : "OUTERWEAR"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "SWIM"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "DENIM PANTS"
+            } ]
+        }, {
+            "name" : "BABY BOY KNITS",
+            "clsList" : [ {
+                "name" : "KNIT PANTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "GRAPHICS"
+            }, {
+                "name" : "KNIT SHORTS"
+            }, {
+                "name" : "LICENSING"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "S/S & S/L TOPS & BODYS"
+            }, {
+                "name" : "SWEATERS"
+            }, {
+                "name" : "LONG SLEEVE TOPS"
+            }, {
+                "name" : "OUTERWEAR & SWIM"
+            } ]
+        }, {
+            "name" : "BABY TD VARIANCE",
+            "clsList" : [ {
+                "name" : "BABY TD VARIANCE"
+            } ]
+        }, {
+            "name" : "XXXXXXXXX",
+            "clsList" : [ {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "XXXXXXXXXX"
+            } ]
+        }, {
+            "name" : "NEWBORN",
+            "clsList" : [ {
+                "name" : "BODYSUITS/TOPS"
+            }, {
+                "name" : "OUTW/LAYER/SWEATERS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "NEWBORN ACCESSORIES"
+            }, {
+                "name" : "LICENSING"
+            }, {
+                "name" : "SETS"
+            }, {
+                "name" : "1-PIECES"
+            }, {
+                "name" : "LAYETTE"
+            }, {
+                "name" : "PANTS"
+            }, {
+                "name" : "DRESSES/SKIRTS/BUBBLES"
+            }, {
+                "name" : "SHORTS/SWIM"
+            } ]
+        }, {
+            "name" : "BABY GIRLS WOVENS",
+            "clsList" : [ {
+                "name" : "TOPS"
+            }, {
+                "name" : "WOVEN PANTS"
+            }, {
+                "name" : "DRESSES/JUMPERS"
+            }, {
+                "name" : "OUTERWEAR"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "DENIM PANTS"
+            }, {
+                "name" : "SKIRTS/SKORTS"
+            } ]
+        }, {
+            "name" : "BABY ACCESSORIES",
+            "clsList" : [ {
+                "name" : "HALLOWEEN COSTUMES"
+            }, {
+                "name" : "SHOES"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "COLD WEATHER"
+            }, {
+                "name" : "XXXXXXXXXXXXXXXXXXXXXX"
+            }, {
+                "name" : "HATS"
+            }, {
+                "name" : "OTHER"
+            }, {
+                "name" : "SOCKS/TIGHTS"
+            }, {
+                "name" : "SLEEPWEAR"
+            } ]
+        } ]
+    }, {
+        "name" : "PLUS SIZES",
+        "departments" : [ {
+            "name" : "PLUS SIZE BOTTOMS",
+            "clsList" : [ {
+                "name" : "CAPRIS"
+            }, {
+                "name" : "ACCESSORIES"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "ACTIVE BOTTOMS"
+            }, {
+                "name" : "DRESSES"
+            }, {
+                "name" : "SKIRTS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "INTIMATES"
+            }, {
+                "name" : "DENIM PANTS"
+            }, {
+                "name" : "PANTS"
+            } ]
+        }, {
+            "name" : "PLUS SIZE TOPS",
+            "clsList" : [ {
+                "name" : "KNIT TOPS"
+            }, {
+                "name" : "SWIM"
+            }, {
+                "name" : "ACTIVE TOPS"
+            }, {
+                "name" : "OUTERWEAR/JACKETS"
+            }, {
+                "name" : "XXXXXXXXX"
+            }, {
+                "name" : "WOVEN TOPS"
+            }, {
+                "name" : "GRAPHIC TEES"
+            }, {
+                "name" : "SWEATERS"
+            } ]
+        } ]
+    }, {
+        "name" : "FUN ZONE",
+        "departments" : [ {
+            "name" : "SNACK ATTACK",
+            "clsList" : [ {
+                "name" : "DRINK"
+            }, {
+                "name" : "CAPRIS"
+            }, {
+                "name" : "SHORTS"
+            }, {
+                "name" : "SKIRTS"
+            }, {
+                "name" : "DRESS PANTS"
+            }, {
+                "name" : "EAT"
+            }, {
+                "name" : "5 POCKET"
+            } ]
+        }, {
+            "name" : "NONAPP",
+            "clsList" : [ {
+                "name" : "MISC SPRT"
+            }, {
+                "name" : "NBA"
+            }, {
+                "name" : "NFL"
+            }, {
+                "name" : "LOCALIZED"
+            }, {
+                "name" : "NCAA"
+            }, {
+                "name" : "MLB"
+            } ]
+        }, {
+            "name" : "MISCSPORT",
+            "clsList" : [ {
+                "name" : "MENS"
+            }, {
+                "name" : "BOYS"
+            }, {
+                "name" : "GIRLS"
+            }, {
+                "name" : "TDL/BABY"
+            }, {
+                "name" : "WOMENS"
+            } ]
+        }, {
+            "name" : "NBA",
+            "clsList" : [ {
+                "name" : "MENS"
+            }, {
+                "name" : "BOYS"
+            }, {
+                "name" : "GIRLS"
+            }, {
+                "name" : "TDL/BABY"
+            }, {
+                "name" : "WOMENS"
+            } ]
+        }, {
+            "name" : "NFL",
+            "clsList" : [ {
+                "name" : "MENS"
+            }, {
+                "name" : "BOYS"
+            }, {
+                "name" : "GIRLS"
+            }, {
+                "name" : "TDL/BABY"
+            }, {
+                "name" : "WOMENS"
+            } ]
+        }, {
+            "name" : "LOCALIZED",
+            "clsList" : [ {
+                "name" : "LOCAL 4"
+            }, {
+                "name" : "LOCAL 3"
+            }, {
+                "name" : "LOCAL 2"
+            }, {
+                "name" : "LOCAL 1"
+            }, {
+                "name" : "LOCAL 5"
+            } ]
+        }, {
+            "name" : "COOL STUFF",
+            "clsList" : [ {
+                "name" : "CONTAINER"
+            }, {
+                "name" : "TECH"
+            }, {
+                "name" : "SPORTS LICENSING"
+            }, {
+                "name" : "TOYS"
+            }, {
+                "name" : "MISCELLANEOUS"
+            }, {
+                "name" : "PERSONAL CARE"
+            }, {
+                "name" : "DOG"
+            }, {
+                "name" : "SEASONAL"
+            } ]
+        }, {
+            "name" : "NCAA",
+            "clsList" : [ {
+                "name" : "MENS"
+            }, {
+                "name" : "BOYS"
+            }, {
+                "name" : "GIRLS"
+            }, {
+                "name" : "TDL/BABY"
+            }, {
+                "name" : "WOMENS"
+            } ]
+        }, {
+            "name" : "DTS ESSENTIALS",
+            "clsList" : [ {
+                "name" : "DTS SPORTS LICENSING"
+            }, {
+                "name" : "DTS CONTAINERS"
+            }, {
+                "name" : "DTS PERSONAL CARE"
+            }, {
+                "name" : "DTS SEASONAL"
+            }, {
+                "name" : "DTS DOG"
+            }, {
+                "name" : "DTS TOYS"
+            }, {
+                "name" : "DTS MISC"
+            } ]
+        }, {
+            "name" : "MLB",
+            "clsList" : [ {
+                "name" : "MENS"
+            }, {
+                "name" : "BOYS"
+            }, {
+                "name" : "GIRLS"
+            }, {
+                "name" : "TDL/BABY"
+            }, {
+                "name" : "WOMENS"
+            } ]
+        } ]
+    } ]
+}
